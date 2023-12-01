@@ -1,4 +1,3 @@
-puts "Hello, World!"
 input = %w[jjfvnnlfivejj1
 6fourfour
 ninevbmltwo69
@@ -1023,3 +1022,5 @@ input.each do |line|
   last = ''
 end
 puts sum
+
+# ANS 56465
