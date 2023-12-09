@@ -1,0 +1,1610 @@
+# pattern = "RL"
+# AAA = "BBB, CCC"
+# BBB = "DDD, EEE"
+# CCC = "ZZZ, GGG"
+# DDD = "DDD, DDD"
+# EEE = "EEE, EEE"
+# GGG = "GGG, GGG"
+# ZZZ = "ZZZ, ZZZ"
+# nodes=%w[AAA
+# BBB
+# CCC
+# DDD
+# EEE
+# GGG
+# ZZZ]
+
+# pattern = "LLR"
+# AAA = "BBB, BBB"
+# BBB = "AAA, ZZZ"
+# ZZZ = "ZZZ, ZZZ"
+# nodes=%w[AAA
+# BBB
+# ZZZ]
+
+pattern = "LRRLLRLRRRLRRRLRRLRRRLRRLRRRLRRLRRRLRLRRRLRRRLRRRLRLRRLRRRLRRRLRRLRRLRRLRLLLRRRLRRRLRLRLRRLLRRRLRRLRRRLRLRRLRRRLRRRLLRLRLLRRRLRRRLLRRRLRRRLRRRLRRLRRRLLLRRRLRLLLRLRLRLLRLRLLLRRLRRLLRRLRRRLRRLRRLRLRRLLRRLRLRRLLLRRRLLRRRLLRLRLLRRRLRLLRRLRLRRLRLRRRLLRRRLLRRLRLRRLRRLLRLRLRRRLRLRRRR"
+GLJ = "QQV, JTL"
+JSJ = "DKN, GQN"
+MGD = "BPL, LQC"
+VSK = "SPH, DDH"
+TSB = "MKP, TKX"
+HPD = "GKG, XMX"
+BLZ = "HGN, KRR"
+BMQ = "JXC, HFC"
+GDG = "BVJ, NBL"
+LST = "PVJ, DPR"
+QQQ = "RLV, SNJ"
+TMV = "XGV, KCL"
+NPZ = "JRD, NHL"
+DDH = "NDR, XPN"
+SFQ = "TKD, SQH"
+RNK = "TJN, NFX"
+FRS = "SCJ, FDV"
+RST = "BSQ, MHQ"
+DSM = "FRX, DMN"
+GBN = "VBL, XRK"
+GLH = "KNN, PKP"
+JRD = "LDP, RNH"
+SPV = "JNR, FRK"
+PMD = "FXP, BKL"
+MDV = "MGD, FHM"
+MGG = "KMN, QPL"
+FNX = "FKG, NLT"
+FPH = "QXS, PBR"
+DKP = "QFT, QQQ"
+XVH = "PVP, GBJ"
+SSP = "BHD, KRM"
+JVR = "RHB, LDJ"
+HCX = "RNK, LGT"
+LRX = "SFN, GXD"
+DXN = "NQX, KNL"
+GNT = "GHV, DKG"
+QVF = "NJN, FSN"
+QHQ = "FXN, PNP"
+CHX = "DHN, BQB"
+GQD = "TLQ, XXG"
+RMF = "RVF, KKR"
+JHN = "NRG, RCC"
+MBG = "XPV, MSB"
+XJN = "SQT, XXJ"
+JNR = "VTP, XSF"
+NXD = "DKP, MKJ"
+LSS = "KHS, BSV"
+SQH = "BLH, VCG"
+TLM = "DCG, BQL"
+HTG = "TLF, KRB"
+GGM = "KLV, PTG"
+PVJ = "BHR, TRH"
+PRP = "QLC, JPQ"
+CVC = "KVJ, FTM"
+RMH = "RPD, FFK"
+MRL = "KFK, LJK"
+VMG = "LSX, FPH"
+DKQ = "XSM, CXK"
+QBD = "BGB, GPS"
+RFV = "QCG, NJD"
+FDN = "QFL, DXN"
+RMV = "NCJ, PMZ"
+BCJ = "MDD, TMG"
+BMB = "GLH, MKK"
+DLQ = "JKX, VGS"
+NBL = "GFQ, PRQ"
+NVG = "SCS, JTS"
+CBX = "MXQ, QSM"
+HFJ = "NXX, VRX"
+FMQ = "KDV, HFJ"
+DSK = "BND, GFJ"
+TRM = "MMX, BTG"
+XKS = "GXD, SFN"
+LDJ = "TFQ, CJK"
+LFP = "TFS, LST"
+PQS = "PJR, SMD"
+MTA = "JPD, MVX"
+FMM = "GPC, BVB"
+NJD = "JMG, DPL"
+VQJ = "KRM, BHD"
+PXP = "BPB, JJK"
+JDM = "HHQ, JXD"
+BJK = "SRN, DRL"
+MRS = "RPT, SQF"
+RCC = "DRD, SPP"
+XPG = "XRK, VBL"
+JLR = "LJQ, XDP"
+KLV = "SKX, SKX"
+JBB = "LRB, RRT"
+NDP = "KMS, DDJ"
+XML = "TPD, VKQ"
+TPM = "PKJ, PGR"
+DGQ = "JFK, TMB"
+XTL = "MPK, CTL"
+VSH = "BNH, HJR"
+PVG = "SPV, KCS"
+CCQ = "LQB, VTK"
+PLS = "HPS, CVC"
+GMQ = "CTG, QHQ"
+PNP = "VSK, JCV"
+JPD = "KKV, FQP"
+PRL = "KRB, TLF"
+NMT = "HXL, NHV"
+DLP = "KXR, BXQ"
+NFG = "DSR, HNX"
+BPB = "BTM, MGR"
+JPL = "NMT, QMD"
+HJG = "XJD, HHX"
+BBK = "VVF, SBN"
+GQL = "XNX, CKR"
+BND = "SQB, KFG"
+VRF = "JKS, LGG"
+PXG = "QMD, NMT"
+FKG = "GBS, JLR"
+NCJ = "NFG, CQH"
+CVM = "LFD, NPZ"
+GQN = "SMM, PQH"
+LJQ = "LXQ, KVG"
+PFK = "HHQ, JXD"
+KLQ = "JNB, DKQ"
+QRP = "SCB, HCM"
+LRB = "RMD, KLN"
+XPP = "GMK, LKL"
+LFD = "NHL, JRD"
+TVK = "TMV, TJF"
+MQD = "HTG, PRL"
+MKJ = "QQQ, QFT"
+QLF = "CHX, XSR"
+MPP = "XMK, QFP"
+HQQ = "PCS, PDC"
+NXX = "BTN, KBJ"
+JBQ = "GGH, FJL"
+BGB = "JSF, MNP"
+BRD = "VMF, NTR"
+HCM = "RHX, KJG"
+NKP = "GHV, DKG"
+XJK = "TRS, DGQ"
+GPS = "MNP, JSF"
+NCM = "VMJ, CSC"
+LSX = "PBR, QXS"
+VLF = "MTL, GVK"
+XFT = "XGS, CRL"
+HLR = "FMM, QLH"
+FFR = "XXD, BGX"
+MRB = "XJD, HHX"
+TVS = "MTL, GVK"
+KNL = "KDN, HQQ"
+PNV = "SQF, RPT"
+HVB = "BBB, LLG"
+RGX = "RLK, MSX"
+MKB = "HNP, NGM"
+FKL = "XMK, QFP"
+LXQ = "GNB, TQH"
+CQF = "NGF, NQF"
+BSV = "KFX, HNH"
+SVQ = "PXP, XQM"
+BHD = "XVH, GDN"
+QQB = "PCB, PCB"
+DCG = "GRH, RGX"
+RRT = "KLN, RMD"
+KDN = "PDC, PCS"
+RHJ = "VTK, LQB"
+LVR = "VSH, QGS"
+NHT = "LQS, DMB"
+PBR = "TCF, JCC"
+GBJ = "MLT, XNB"
+BJB = "XPR, MBG"
+PQH = "MCH, LMB"
+MPM = "BSV, KHS"
+SGB = "TKF, PMD"
+XQM = "JJK, BPB"
+TLQ = "FGM, CRC"
+FXP = "BCJ, TDR"
+VDG = "VMJ, CSC"
+XGV = "LHS, LTS"
+JKP = "PXG, JPL"
+KFQ = "TSB, RNB"
+NHL = "LDP, RNH"
+TRS = "JFK, TMB"
+PMM = "RHC, KMQ"
+QMB = "PPJ, CNG"
+MKH = "DDJ, KMS"
+NCG = "XXD, BGX"
+DBG = "SND, HMN"
+GVK = "TQD, JHN"
+KKM = "KKL, PBT"
+HLP = "JPQ, QLC"
+GPH = "JKG, DKK"
+XQP = "GLH, MKK"
+HRF = "BGB, GPS"
+BXQ = "BDH, GQT"
+NDR = "KKM, LRR"
+HQR = "RGL, RMX"
+PCS = "DTB, LDS"
+LQB = "GMQ, HRQ"
+KKR = "KTV, CMB"
+NGM = "KFQ, BQJ"
+KLN = "XFT, JRL"
+HRR = "RHJ, CCQ"
+XSF = "CKX, PLS"
+BTG = "GDG, JDS"
+PBT = "NVG, DVP"
+CPP = "VSH, QGS"
+MLN = "VGS, JKX"
+JRF = "SKN, RMF"
+KHS = "KFX, HNH"
+DDP = "QJG, XKJ"
+FGM = "TVK, TNS"
+QJH = "XSL, QXP"
+TNX = "NBV, KLQ"
+JVC = "FBR, PFT"
+XPV = "TLM, PPK"
+PCK = "KBG, TGJ"
+HRS = "VKM, JVF"
+DKK = "NHT, ZZZ"
+TJN = "KTL, QLF"
+THT = "JJQ, LRJ"
+JNB = "CXK, XSM"
+CRL = "VXT, TBG"
+RVF = "CMB, KTV"
+GQT = "PBB, CVM"
+QGF = "MGT, SKV"
+SCJ = "CQF, KRQ"
+SCM = "DPB, PMM"
+KNN = "XLQ, VPB"
+PPK = "BQL, DCG"
+LPP = "HJG, MRB"
+RRM = "RXT, PBZ"
+DCT = "FTF, HVB"
+PQP = "PBQ, HVR"
+NTV = "SCM, GKN"
+XXD = "LSS, MPM"
+BKP = "LXL, LXL"
+BLH = "QLV, SFJ"
+SPH = "NDR, XPN"
+CVF = "KDV, HFJ"
+XDK = "RHJ, CCQ"
+NQQ = "NTT, FVL"
+TQF = "XCV, NDX"
+VRX = "BTN, KBJ"
+KFX = "XLN, FDN"
+DMN = "TPT, JRQ"
+VVF = "TPQ, CDH"
+XPN = "LRR, KKM"
+LQC = "TMX, LHQ"
+XXT = "TLR, DDP"
+PBB = "LFD, LFD"
+GKF = "CHM, XTL"
+SNJ = "NSR, KVD"
+FKS = "PPL, PSM"
+BJZ = "MVX, JPD"
+JSF = "GQD, GQP"
+BFM = "QXR, MVF"
+QSD = "JHV, JKP"
+XSR = "DHN, BQB"
+SVM = "PKJ, PGR"
+XXJ = "HGF, MPG"
+KRB = "QMB, VNX"
+XJD = "SFQ, SGF"
+HGN = "KBF, LXS"
+TKF = "FXP, BKL"
+KHB = "TPJ, CGD"
+JFK = "JJX, DMH"
+PMT = "HGC, HJQ"
+NBV = "DKQ, JNB"
+FMN = "BJB, HSV"
+HPS = "KVJ, KVJ"
+GLT = "LXL, NFN"
+PSM = "PMT, CKP"
+RSM = "JRF, PDB"
+KVD = "PFK, JDM"
+CSQ = "HJG, MRB"
+PKJ = "HDR, TJQ"
+LRJ = "JSJ, BFS"
+KFG = "KKT, CQR"
+TPD = "THT, KBB"
+KBB = "LRJ, JJQ"
+XGS = "VXT, TBG"
+RHX = "XJK, QND"
+QPL = "DDN, STH"
+BQB = "XJC, SBH"
+KCL = "LHS, LTS"
+XPH = "KXR, BXQ"
+QNA = "NHL, JRD"
+KVJ = "KHJ, KHJ"
+QJP = "RNK, LGT"
+QFL = "KNL, NQX"
+KFP = "HLR, LCV"
+QLV = "PMX, BJK"
+TLR = "QJG, XKJ"
+NLQ = "XML, BDS"
+JXD = "MQD, GBH"
+LXP = "HRR, XDK"
+DJS = "GLJ, RNF"
+FLS = "FMB, MRL"
+HXL = "BXS, FDM"
+NQX = "KDN, HQQ"
+PGR = "TJQ, HDR"
+CGD = "DGS, VKN"
+KRQ = "NQF, NGF"
+JSB = "PNQ, DHV"
+MBJ = "JCK, QRP"
+MXQ = "DRG, DSM"
+HMN = "CBP, CPG"
+JTL = "RST, SPD"
+DKG = "GQK, XMQ"
+NJN = "TVS, VLF"
+LTS = "JCB, TQF"
+XNP = "JVF, VKM"
+RTG = "XXJ, SQT"
+KNT = "LRB, RRT"
+SFL = "LXP, CDN"
+GXD = "MMT, CNX"
+SMC = "XTL, CHM"
+JCB = "XCV, NDX"
+DQT = "RBJ, QGF"
+TFR = "MKH, NDP"
+HTP = "CSQ, LPP"
+JKM = "VVK, SHX"
+LGG = "RPH, NTV"
+NSR = "JDM, PFK"
+QFT = "SNJ, RLV"
+SQF = "GRG, RSX"
+SFD = "FFK, RPD"
+SCD = "SNC, LGQ"
+CXK = "VDN, SQM"
+LDP = "NLQ, DGV"
+CDN = "XDK, HRR"
+HFC = "QBD, HRF"
+LGT = "NFX, TJN"
+VKM = "QJP, HCX"
+HGF = "SCD, TKT"
+VGS = "SGB, VXD"
+MGL = "FTN, LBF"
+FDM = "DLQ, MLN"
+FTP = "HJL, JQG"
+TCN = "MRL, FMB"
+NGR = "QPL, KMN"
+NDX = "DMX, LTG"
+GVJ = "JDG, PCK"
+MVF = "KVR, TQK"
+MXJ = "FPQ, VBV"
+RNH = "DGV, NLQ"
+RPD = "RFV, PGG"
+JKG = "NHT, NHT"
+XNX = "JDB, DQT"
+DRL = "GCM, DSK"
+TCF = "TCJ, SVQ"
+LCL = "NJN, FSN"
+MJM = "QSM, MXQ"
+JJK = "BTM, MGR"
+SPX = "JDG, PCK"
+QLC = "DHJ, PVG"
+GPC = "XKC, RTT"
+TJQ = "XPG, GBN"
+HSV = "XPR, MBG"
+JKS = "RPH, NTV"
+XDP = "KVG, LXQ"
+JDS = "NBL, BVJ"
+TQK = "NCR, HTP"
+BLX = "TFS, LST"
+KRR = "LXS, KBF"
+XMQ = "KHB, MMC"
+KBG = "DBG, MQR"
+LRR = "KKL, PBT"
+LFV = "HVQ, MNJ"
+HGD = "MNL, PDJ"
+GLB = "NDP, MKH"
+CMB = "VDG, NCM"
+TKD = "VCG, BLH"
+BQJ = "TSB, RNB"
+QBT = "MKB, RKM"
+GJQ = "BTG, MMX"
+SGF = "TKD, SQH"
+RMD = "JRL, XFT"
+DDJ = "HRS, XNP"
+HNP = "KFQ, BQJ"
+FQF = "MNJ, HVQ"
+PJT = "FRQ, KFP"
+RKM = "NGM, HNP"
+VBV = "LVR, CPP"
+RBJ = "SKV, MGT"
+MPG = "SCD, TKT"
+BHR = "BRM, FJC"
+VTP = "CKX, PLS"
+PBQ = "RQC, HGD"
+RMX = "FTP, NGJ"
+SMP = "KRR, HGN"
+KBF = "RMK, BMQ"
+LSL = "JSB, VPL"
+KRM = "GDN, XVH"
+DHJ = "SPV, KCS"
+XNB = "QFH, PGQ"
+TGJ = "DBG, MQR"
+LHQ = "FNX, KFF"
+GCM = "GFJ, BND"
+MJQ = "BBK, KVM"
+NQF = "SSP, VQJ"
+VPL = "DHV, PNQ"
+HHX = "SFQ, SGF"
+FJL = "MGL, XKH"
+HNH = "FDN, XLN"
+RLK = "LCL, QVF"
+SND = "CPG, CBP"
+CNG = "DJS, HVS"
+VDN = "QBK, MXJ"
+BRM = "SMC, GKF"
+VTK = "HRQ, GMQ"
+MVX = "KKV, FQP"
+TDR = "TMG, MDD"
+SQT = "HGF, MPG"
+TMN = "HVB, FTF"
+GNB = "BFT, QXK"
+QXP = "MJM, CBX"
+GQK = "MMC, KHB"
+QGX = "NDB, QSD"
+TMX = "FNX, KFF"
+BLD = "NBV, KLQ"
+RHC = "NXK, PJT"
+XJC = "QKG, QKG"
+GBH = "HTG, PRL"
+TPT = "TRQ, XXT"
+FTF = "BBB, LLG"
+QJG = "FKS, PQG"
+FVR = "LXP, CDN"
+XCA = "FVR, SFL"
+VMJ = "KHP, MDV"
+NTT = "LFP, BLX"
+DMB = "TCN, FLS"
+CQR = "LRX, XKS"
+JFR = "TMN, DCT"
+TRQ = "DDP, TLR"
+BXS = "MLN, DLQ"
+LLG = "LSK, XMD"
+CBP = "RHF, BRD"
+PFT = "SMP, BLZ"
+TNS = "TMV, TJF"
+DHV = "VFX, VVR"
+PPL = "CKP, PMT"
+QND = "DGQ, TRS"
+VBL = "MGG, NGR"
+FHM = "BPL, LQC"
+KKT = "LRX, XKS"
+LHS = "JCB, TQF"
+LXL = "LJH, LJH"
+BLT = "GGH, FJL"
+JQG = "XCT, FRS"
+KCS = "JNR, FRK"
+SKX = "JKG, JKG"
+VKN = "NMS, QBT"
+DSL = "FMN, PJN"
+TPJ = "VKN, DGS"
+CKR = "JDB, DQT"
+LKL = "QLQ, NXD"
+SMM = "LMB, MCH"
+FSN = "TVS, VLF"
+KMS = "XNP, HRS"
+MTX = "LGG, JKS"
+CHM = "CTL, MPK"
+HRQ = "QHQ, CTG"
+QCG = "JMG, DPL"
+TQH = "QXK, BFT"
+JXC = "QBD, HRF"
+JVF = "QJP, HCX"
+TJF = "KCL, XGV"
+XDS = "QQB, QQB"
+KJG = "QND, XJK"
+CTG = "FXN, PNP"
+BBB = "LSK, XMD"
+DMH = "NHF, JKM"
+BGX = "LSS, MPM"
+RHF = "VMF, NTR"
+KHJ = "JPD, MVX"
+SCS = "FNJ, RSM"
+VFX = "LXV, XPP"
+XLQ = "RMH, SFD"
+HDB = "HVR, PBQ"
+PTG = "SKX, GPH"
+NTR = "LDG, LKV"
+KKL = "NVG, DVP"
+XKH = "FTN, LBF"
+BDS = "TPD, VKQ"
+QKG = "FBR, FBR"
+LDS = "HQR, BJC"
+KKV = "MPP, FKL"
+JRQ = "TRQ, XXT"
+MNP = "GQP, GQD"
+BTM = "GJQ, TRM"
+RPH = "GKN, SCM"
+TQD = "RCC, NRG"
+FQP = "FKL, MPP"
+VFV = "QQB, HPB"
+XSL = "CBX, MJM"
+GKN = "DPB, PMM"
+PBK = "QBH, GQL"
+HPB = "PCB, RRM"
+MCH = "RTG, XJN"
+KSL = "FVL, NTT"
+TCJ = "PXP, XQM"
+RNF = "JTL, QQV"
+BXA = "NFG, CQH"
+KVK = "PRP, HLP"
+NGF = "SSP, VQJ"
+PJN = "BJB, HSV"
+SFJ = "BJK, PMX"
+CPL = "LDJ, RHB"
+MKP = "TRJ, BFM"
+RPT = "GRG, RSX"
+PRQ = "XPH, DLP"
+DSR = "KNT, JBB"
+VPB = "RMH, SFD"
+QLQ = "MKJ, DKP"
+FNJ = "PDB, JRF"
+SBH = "QKG, JVC"
+PDC = "LDS, DTB"
+QFP = "MJQ, HFK"
+CTL = "RDD, KVK"
+LXS = "BMQ, RMK"
+VKF = "QBH, GQL"
+HJL = "XCT, FRS"
+KTK = "LDF, HPD"
+RMK = "HFC, JXC"
+MGT = "JFR, HXB"
+XLN = "QFL, DXN"
+FRQ = "HLR, LCV"
+FMB = "KFK, LJK"
+NFX = "KTL, QLF"
+LMB = "RTG, XJN"
+JDG = "TGJ, KBG"
+MNJ = "GVJ, SPX"
+VMF = "LDG, LKV"
+SRN = "GCM, DSK"
+JCC = "SVQ, TCJ"
+NGJ = "HJL, JQG"
+XCT = "SCJ, FDV"
+FFK = "RFV, PGG"
+NFN = "LJH, RMV"
+GHV = "GQK, XMQ"
+HFK = "KVM, BBK"
+MNL = "GLB, TFR"
+BPL = "LHQ, TMX"
+LJH = "NCJ, NCJ"
+FDV = "CQF, KRQ"
+PBZ = "SFL, FVR"
+MSB = "PPK, TLM"
+GGH = "XKH, MGL"
+MPK = "KVK, RDD"
+VVR = "XPP, LXV"
+NMS = "MKB, RKM"
+NXK = "FRQ, KFP"
+BSQ = "JCS, MBJ"
+XMX = "DSL, CTX"
+NHF = "VVK, SHX"
+MMC = "CGD, TPJ"
+GQP = "TLQ, XXG"
+TRH = "FJC, BRM"
+RLV = "NSR, KVD"
+DKN = "PQH, SMM"
+MSX = "LCL, QVF"
+SKN = "KKR, RVF"
+LSK = "PNV, MRS"
+RDD = "PRP, HLP"
+DRD = "JBQ, BLT"
+GBS = "XDP, LJQ"
+TFQ = "BLD, TNX"
+QGS = "BNH, HJR"
+LJK = "CVF, FMQ"
+NCR = "CSQ, LPP"
+HJQ = "SVM, TPM"
+JCS = "QRP, JCK"
+KTV = "VDG, NCM"
+MMX = "GDG, JDS"
+HVS = "GLJ, RNF"
+XMD = "PNV, MRS"
+VVK = "XDS, VFV"
+FBR = "SMP, SMP"
+XKJ = "PQG, FKS"
+AAA = "LQS, DMB"
+LCV = "FMM, QLH"
+PPJ = "HVS, DJS"
+DGS = "QBT, NMS"
+PFG = "LDF, HPD"
+HVR = "RQC, HGD"
+QXK = "BMB, XQP"
+BTN = "GHD, JXP"
+DPR = "TRH, BHR"
+KVG = "GNB, TQH"
+GFJ = "KFG, SQB"
+JCK = "SCB, HCM"
+QSM = "DRG, DSM"
+XPR = "XPV, MSB"
+RNB = "TKX, MKP"
+RHB = "TFQ, CJK"
+PGQ = "VRF, MTX"
+CDH = "GNT, NKP"
+BVJ = "PRQ, GFQ"
+LTG = "QGX, LVL"
+XJR = "QXP, XSL"
+JCV = "SPH, DDH"
+GDN = "PVP, GBJ"
+HNX = "KNT, JBB"
+SFN = "MMT, CNX"
+RGL = "FTP, NGJ"
+VCA = "KRR, HGN"
+ZZZ = "DMB, LQS"
+GMK = "QLQ, NXD"
+LKV = "VMG, SDQ"
+PMZ = "CQH, NFG"
+KBJ = "GHD, JXP"
+PNQ = "VFX, VVR"
+TPQ = "GNT, NKP"
+SPD = "MHQ, BSQ"
+XCV = "DMX, LTG"
+BVB = "XKC, RTT"
+BQL = "RGX, GRH"
+JTS = "RSM, FNJ"
+SPP = "BLT, JBQ"
+VXT = "CPL, JVR"
+MTL = "JHN, TQD"
+KMN = "DDN, STH"
+RQC = "PDJ, MNL"
+FTM = "KHJ, BJZ"
+RXT = "FVR, SFL"
+QXR = "KVR, TQK"
+HJR = "QJH, XJR"
+BFS = "GQN, DKN"
+TKX = "BFM, TRJ"
+DGV = "BDS, XML"
+DRG = "FRX, DMN"
+VNX = "CNG, PPJ"
+CSC = "MDV, KHP"
+KMQ = "PJT, NXK"
+DVP = "SCS, JTS"
+LDF = "XMX, GKG"
+QFH = "MTX, VRF"
+RTT = "PQS, GBD"
+KXR = "BDH, BDH"
+SMD = "GHT, GGM"
+TMB = "DMH, JJX"
+KHP = "FHM, MGD"
+TLF = "QMB, VNX"
+FRK = "VTP, XSF"
+KTL = "CHX, XSR"
+GRH = "RLK, MSX"
+QMD = "NHV, HXL"
+KDV = "VRX, NXX"
+LGQ = "VKF, PBK"
+FVL = "BLX, LFP"
+MMT = "NQQ, KSL"
+CKP = "HJQ, HGC"
+STH = "BKP, GLT"
+QBK = "FPQ, VBV"
+CTX = "FMN, PJN"
+HHQ = "GBH, MQD"
+JHV = "PXG, JPL"
+FJC = "GKF, SMC"
+TMG = "PFG, KTK"
+XXG = "CRC, FGM"
+BDH = "PBB, PBB"
+FPQ = "CPP, LVR"
+BKL = "BCJ, TDR"
+GKG = "DSL, CTX"
+LVL = "NDB, QSD"
+BNH = "QJH, XJR"
+TBG = "JVR, CPL"
+CQH = "HNX, DSR"
+VXD = "TKF, PMD"
+MGR = "TRM, GJQ"
+PDJ = "GLB, TFR"
+HXB = "DCT, TMN"
+XSM = "SQM, VDN"
+HDR = "XPG, GBN"
+GFQ = "XPH, DLP"
+XKC = "PQS, GBD"
+SBN = "TPQ, CDH"
+RSX = "LFV, FQF"
+PVP = "XNB, MLT"
+LDG = "VMG, SDQ"
+LXV = "LKL, GMK"
+TKT = "SNC, LGQ"
+SHX = "XDS, VFV"
+GRG = "FQF, LFV"
+QQV = "RST, SPD"
+CNX = "NQQ, KSL"
+DMX = "LVL, QGX"
+CRC = "TVK, TNS"
+JXP = "FFR, NCG"
+BJC = "RGL, RMX"
+BFT = "XQP, BMB"
+SKV = "JFR, HXB"
+JDB = "QGF, RBJ"
+XRK = "NGR, MGG"
+FXN = "JCV, VSK"
+JJQ = "JSJ, BFS"
+DDN = "BKP, GLT"
+QBH = "XNX, CKR"
+MLT = "PGQ, QFH"
+SNC = "VKF, PBK"
+FTN = "HDB, PQP"
+DPL = "LSL, FXH"
+TFS = "DPR, PVJ"
+HVQ = "SPX, GVJ"
+JJX = "NHF, JKM"
+KVR = "HTP, NCR"
+MQR = "SND, HMN"
+MDD = "PFG, KTK"
+PCB = "RXT, RXT"
+NLT = "GBS, JLR"
+GBD = "SMD, PJR"
+NHV = "BXS, FDM"
+GHT = "KLV, PTG"
+SDQ = "LSX, FPH"
+TRJ = "QXR, MVF"
+HGC = "TPM, SVM"
+MHQ = "JCS, MBJ"
+CKX = "HPS, HPS"
+SQM = "MXJ, QBK"
+PQG = "PPL, PSM"
+JRL = "CRL, XGS"
+NRG = "DRD, SPP"
+GHD = "NCG, FFR"
+LBF = "PQP, HDB"
+MKK = "KNN, PKP"
+CPG = "RHF, BRD"
+SQB = "KKT, CQR"
+VKQ = "THT, KBB"
+KFK = "FMQ, CVF"
+PJR = "GHT, GGM"
+FXH = "JSB, VPL"
+JPQ = "PVG, DHJ"
+PDB = "SKN, RMF"
+JKX = "VXD, SGB"
+DTB = "HQR, BJC"
+VCG = "QLV, SFJ"
+KVM = "SBN, VVF"
+QXS = "TCF, JCC"
+CJK = "BLD, TNX"
+PKP = "VPB, XLQ"
+JMG = "LSL, FXH"
+FRX = "JRQ, TPT"
+KFF = "FKG, NLT"
+DPB = "RHC, KMQ"
+SCB = "KJG, RHX"
+DHN = "XJC, SBH"
+QLH = "GPC, BVB"
+PMX = "DRL, SRN"
+XMK = "HFK, MJQ"
+NDB = "JHV, JKP"
+LQS = "TCN, FLS"
+PGG = "NJD, QCG"
+
+nodes = %w[GLJ
+JSJ
+MGD
+VSK
+TSB
+HPD
+BLZ
+BMQ
+GDG
+LST
+QQQ
+TMV
+NPZ
+DDH
+SFQ
+RNK
+FRS
+RST
+DSM
+GBN
+GLH
+JRD
+SPV
+PMD
+MDV
+MGG
+FNX
+FPH
+DKP
+XVH
+SSP
+JVR
+HCX
+LRX
+DXN
+GNT
+QVF
+QHQ
+CHX
+GQD
+RMF
+JHN
+MBG
+XJN
+JNR
+NXD
+LSS
+SQH
+TLM
+HTG
+GGM
+PVJ
+PRP
+CVC
+RMH
+MRL
+VMG
+DKQ
+QBD
+RFV
+FDN
+RMV
+BCJ
+BMB
+DLQ
+NBL
+NVG
+CBX
+HFJ
+FMQ
+DSK
+TRM
+XKS
+LDJ
+LFP
+PQS
+MTA
+FMM
+NJD
+VQJ
+PXP
+JDM
+BJK
+MRS
+RCC
+XPG
+JLR
+KLV
+JBB
+NDP
+XML
+TPM
+DGQ
+XTL
+VSH
+PVG
+CCQ
+PLS
+GMQ
+PNP
+JPD
+PRL
+NMT
+DLP
+NFG
+BPB
+JPL
+HJG
+BBK
+GQL
+BND
+VRF
+PXG
+FKG
+NCJ
+CVM
+GQN
+LJQ
+PFK
+KLQ
+QRP
+LRB
+XPP
+LFD
+TVK
+MQD
+MKJ
+QLF
+MPP
+HQQ
+NXX
+JBQ
+BGB
+BRD
+HCM
+NKP
+XJK
+GPS
+NCM
+LSX
+VLF
+XFT
+HLR
+FFR
+MRB
+TVS
+KNL
+PNV
+HVB
+RGX
+MKB
+FKL
+LXQ
+CQF
+BSV
+SVQ
+BHD
+QQB
+DCG
+RRT
+KDN
+RHJ
+LVR
+NHT
+PBR
+GBJ
+BJB
+PQH
+MPM
+SGB
+XQM
+TLQ
+FXP
+VDG
+XGV
+JKP
+KFQ
+NHL
+TRS
+PMM
+QMB
+MKH
+NCG
+DBG
+GVK
+KKM
+HLP
+GPH
+XQP
+HRF
+BXQ
+NDR
+HQR
+PCS
+LQB
+KKR
+NGM
+KLN
+HRR
+XSF
+BTG
+PBT
+CPP
+MLN
+JRF
+KHS
+DDP
+FGM
+QJH
+TNX
+JVC
+XPV
+PCK
+HRS
+DKK
+TJN
+THT
+JNB
+CRL
+RVF
+GQT
+QGF
+SCJ
+SCM
+KNN
+PPK
+LPP
+RRM
+DCT
+PQP
+NTV
+XXD
+BKP
+BLH
+SPH
+CVF
+XDK
+NQQ
+TQF
+VRX
+KFX
+DMN
+VVF
+XPN
+LQC
+XXT
+PBB
+GKF
+SNJ
+FKS
+BJZ
+JSF
+BFM
+QSD
+XSR
+SVM
+XXJ
+KRB
+XJD
+HGN
+TKF
+KHB
+JFK
+PMT
+NBV
+FMN
+HPS
+GLT
+PSM
+RSM
+KVD
+CSQ
+PKJ
+LRJ
+KFG
+TPD
+KBB
+XGS
+RHX
+QPL
+BQB
+KCL
+XPH
+QNA
+KVJ
+QJP
+QFL
+KFP
+QLV
+TLR
+NLQ
+JXD
+LXP
+DJS
+FLS
+HXL
+NQX
+PGR
+CGD
+KRQ
+JSB
+MBJ
+MXQ
+HMN
+JTL
+DKG
+NJN
+LTS
+XNP
+RTG
+KNT
+SFL
+GXD
+SMC
+JCB
+DQT
+TFR
+HTP
+JKM
+LGG
+NSR
+QFT
+SQF
+SFD
+SCD
+CXK
+LDP
+CDN
+HFC
+LGT
+VKM
+HGF
+VGS
+MGL
+FDM
+FTP
+TCN
+NGR
+NDX
+GVJ
+MVF
+MXJ
+RNH
+RPD
+JKG
+XNX
+DRL
+TCF
+LCL
+MJM
+JJK
+SPX
+QLC
+GPC
+TJQ
+HSV
+JKS
+XDP
+JDS
+TQK
+BLX
+KRR
+XMQ
+KBG
+LRR
+LFV
+HGD
+GLB
+CMB
+TKD
+BQJ
+QBT
+GJQ
+SGF
+RMD
+DDJ
+HNP
+FQF
+PJT
+RKM
+VBV
+RBJ
+MPG
+BHR
+VTP
+PBQ
+RMX
+SMP
+KBF
+LSL
+KRM
+DHJ
+XNB
+TGJ
+LHQ
+GCM
+MJQ
+NQF
+VPL
+HHX
+FJL
+HNH
+RLK
+SND
+CNG
+VDN
+BRM
+VTK
+MVX
+TDR
+SQT
+TMN
+GNB
+QXP
+GQK
+QGX
+TMX
+BLD
+RHC
+XJC
+GBH
+TPT
+FTF
+QJG
+FVR
+XCA
+VMJ
+NTT
+DMB
+CQR
+JFR
+TRQ
+BXS
+LLG
+CBP
+PFT
+TNS
+DHV
+PPL
+QND
+VBL
+FHM
+KKT
+LHS
+LXL
+BLT
+JQG
+KCS
+SKX
+VKN
+DSL
+TPJ
+CKR
+LKL
+SMM
+FSN
+KMS
+MTX
+CHM
+HRQ
+QCG
+TQH
+JXC
+JVF
+TJF
+XDS
+KJG
+CTG
+BBB
+DMH
+BGX
+RHF
+KHJ
+SCS
+VFX
+XLQ
+HDB
+PTG
+NTR
+KKL
+XKH
+BDS
+QKG
+LDS
+KKV
+JRQ
+MNP
+BTM
+RPH
+TQD
+FQP
+VFV
+XSL
+GKN
+PBK
+HPB
+MCH
+KSL
+TCJ
+RNF
+BXA
+KVK
+NGF
+PJN
+SFJ
+CPL
+MKP
+RPT
+PRQ
+DSR
+VPB
+QLQ
+FNJ
+SBH
+PDC
+QFP
+CTL
+LXS
+VKF
+HJL
+KTK
+RMK
+MGT
+XLN
+FRQ
+FMB
+NFX
+LMB
+JDG
+MNJ
+VMF
+SRN
+JCC
+NGJ
+XCT
+FFK
+NFN
+GHV
+HFK
+MNL
+BPL
+LJH
+FDV
+PBZ
+MSB
+GGH
+MPK
+VVR
+NMS
+NXK
+BSQ
+XMX
+NHF
+MMC
+GQP
+TRH
+RLV
+DKN
+MSX
+SKN
+LSK
+RDD
+DRD
+GBS
+TFQ
+QGS
+LJK
+NCR
+HJQ
+JCS
+KTV
+MMX
+HVS
+XMD
+VVK
+FBR
+XKJ
+AAA
+LCV
+PPJ
+DGS
+PFG
+HVR
+QXK
+BTN
+DPR
+KVG
+GFJ
+JCK
+QSM
+XPR
+RNB
+RHB
+PGQ
+CDH
+BVJ
+LTG
+XJR
+JCV
+GDN
+HNX
+SFN
+RGL
+VCA
+ZZZ
+GMK
+LKV
+PMZ
+KBJ
+PNQ
+TPQ
+SPD
+XCV
+BVB
+BQL
+JTS
+SPP
+VXT
+MTL
+KMN
+RQC
+FTM
+RXT
+QXR
+HJR
+BFS
+TKX
+DGV
+DRG
+VNX
+CSC
+KMQ
+DVP
+LDF
+QFH
+RTT
+KXR
+SMD
+TMB
+KHP
+TLF
+FRK
+KTL
+GRH
+QMD
+KDV
+LGQ
+FVL
+MMT
+CKP
+STH
+QBK
+CTX
+HHQ
+JHV
+FJC
+TMG
+XXG
+BDH
+FPQ
+BKL
+GKG
+LVL
+BNH
+TBG
+CQH
+VXD
+MGR
+PDJ
+HXB
+XSM
+HDR
+GFQ
+XKC
+SBN
+RSX
+PVP
+LDG
+LXV
+TKT
+SHX
+GRG
+QQV
+CNX
+DMX
+CRC
+JXP
+BJC
+BFT
+SKV
+JDB
+XRK
+FXN
+JJQ
+DDN
+QBH
+MLT
+SNC
+FTN
+DPL
+TFS
+HVQ
+JJX
+KVR
+MQR
+MDD
+PCB
+NLT
+GBD
+NHV
+GHT
+SDQ
+TRJ
+HGC
+MHQ
+CKX
+SQM
+PQG
+JRL
+NRG
+GHD
+LBF
+MKK
+CPG
+SQB
+VKQ
+KFK
+PJR
+FXH
+JPQ
+PDB
+JKX
+DTB
+VCG
+KVM
+QXS
+CJK
+PKP
+JMG
+FRX
+KFF
+DPB
+SCB
+DHN
+QLH
+PMX
+XMK
+NDB
+LQS
+PGG
+]
+
+# pattern = "LR"
+
+# IIA = "IIB, XXD"
+# IIB = "XXD, IIZ"
+# IIZ = "IIB, XXD"
+# SSA = "SSB, XXD"
+# SSB = "SSC, SSC"
+# SSC = "SSZ, SSZ"
+# SSZ = "SSB, SSB"
+# XXD = "XXD, XXD"
+
+# nodes = %w[IIA
+# IIB
+# IIZ
+# SSA
+# SSB
+# SSC
+# SSZ
+# XXD]
+
+def getNextNode(currentNode, direction, steps)
+  nextNode = "???"
+
+  if direction == "L"
+    nextNode = eval(currentNode).split[0].tr(',', ' ')
+  else
+    nextNode = eval(currentNode).split[1]
+  end
+  # print "direction: :", direction, " steps: ", steps, " currentNode: ", currentNode," nextNode: ", nextNode, "\n"
+  steps += 1
+  [nextNode, steps]
+end
+
+def iteratePattern(startingNode, pattern, steps)
+  currentNode = startingNode
+  nextNode = "???"
+  pattern.each_char do |char|
+    nextNode, nextSteps = getNextNode(currentNode, char, steps)
+    currentNode = nextNode
+    steps = nextSteps
+  end
+  [nextNode, steps]
+end
+
+def getStartingNodes(nodes)
+  startingNodes = []
+  nodes.each do |node|
+    if node[2] == "A"
+      startingNodes << node
+    end
+  end
+  startingNodes
+end
+
+currentNodes = getStartingNodes(nodes)
+steps = 0 
+stepsToZ = {}
+repeating = {}
+# until currentNodes.all? { |node| node[2] == "Z" }
+until repeating.keys.size == currentNodes.size
+  nextNodes = []
+  nextSteps = 0
+  currentNodes.each.with_index do |node, index|
+    nextNode, nextSteps = iteratePattern(node, pattern, steps)
+    if nextNode[2] == "Z"
+      if stepsToZ.has_key?(index)
+        repeating[index] = nextSteps - stepsToZ[index] unless repeating.has_key?(index)
+      else
+        stepsToZ[index] = nextSteps
+      end
+    end
+    nextNodes << nextNode
+  end
+  currentNodes = nextNodes
+  # puts currentNodes
+  steps = nextSteps
+end
+
+puts repeating
+puts repeating.values.reduce(1, :lcm) # least common multiple
+
+# ANS 14321394058031
